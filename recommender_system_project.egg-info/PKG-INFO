@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: recommender-system-project
+Version: 0.1.0
+Summary: Projeto de Sistema de Recomendação
+Home-page: https://github.com/seu_usuario/recommender_system_project
+Author: Seu Nome
+Author-email: seu.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+
+# Recommender System Project
+
+Este projeto implementa um sistema de recomendacao simples usando recomendacoes colaborativas simples, baseadas em conteÃºdo, hÃ­bridas e de popularidade
+
+
+# Estrutura do projeto
+
+recommender_system_project/
+â”‚
+â”œâ”€â”€ data/
+â”‚ â””â”€â”€ ratings.csv
+â”‚ â””â”€â”€ items.csv
+â”‚
+â”œâ”€â”€ src/
+â”‚ â””â”€â”€ init.py
+â”‚ â””â”€â”€ recommender.py
+â”‚ â””â”€â”€ visualization.py
+â”‚
+â”œâ”€â”€ tests/
+â”‚ â””â”€â”€ init.py
+â”‚ â””â”€â”€ test_recommender.py
+â”‚
+â”œâ”€â”€ app.py
+â”œâ”€â”€ requirements.txt
+â”œâ”€â”€ README.md
+â”œâ”€â”€ setup.py

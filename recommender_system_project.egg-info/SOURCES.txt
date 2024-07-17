@@ -1,0 +1,13 @@
+README.md
+setup.py
+recommender_system_project.egg-info/PKG-INFO
+recommender_system_project.egg-info/SOURCES.txt
+recommender_system_project.egg-info/dependency_links.txt
+recommender_system_project.egg-info/entry_points.txt
+recommender_system_project.egg-info/requires.txt
+recommender_system_project.egg-info/top_level.txt
+src/__init__.py
+src/recommender.py
+src/visualization.py
+tests/__init__.py
+tests/test_recommender.py
