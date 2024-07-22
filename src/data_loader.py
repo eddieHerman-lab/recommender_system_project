@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np
 from src import recommender
 
-
+movies_path= r'/data/Movies.csv'
+rating_path= r'/data/Rating.csv'
 genres_path = r'/data/Genre.csv'
 def Load_and_pepare_data(movies_path, ratings_path,genres_path):
 
